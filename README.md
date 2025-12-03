@@ -6,7 +6,7 @@
 * **Undergraduate**: BS Computer Science at Grand Valley State University, MI
   * Completed 2024
 
-:world_map: **Bloomington, Indiana** (Hometown: Grand Haven, MI)
+:world_map: **Bloomington, Indiana** (From West Michigan)
 
 :email: **Email:** srutier@iu.edu
 
